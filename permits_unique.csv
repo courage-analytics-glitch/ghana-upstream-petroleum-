@@ -1,0 +1,262 @@
+permit_no,contractor,permit_type,blocks,n_blocks,start_date,end_date,permit_type_std,group
+PC/000056/A/02-13,Eni Ghana Exploration and Production Limited,Registration Permit,Offshore Cape Three Points,1,2013-03-13,2014-03-12,Registration Permit,ENI
+PC/000057/A/04-13,Tullow Ghana Limited,Registration Permit,Deepwater Tano; West Cape Three Points,2,2013-04-02,2014-04-01,Registration Permit,TULLOW
+PC/000066/A/04-13,Kosmos Energy Ghana HC,Registration Permit,Deepwater Tano; West Cape Three Points,2,2013-04-10,2014-04-09,Registration Permit,KOSMOS
+PC/000078/A/0513,Hess Ghana Exploration Limited,Registration Permit,Deepwater Tano / Cape 3 Points,1,2013-05-13,2014-05-12,Registration Permit,HESS
+PC/000086/A/0513,Lukoil Overseas Gh Ltd,Registration Permit,Deepwater Tano / Cape 3 Points,1,2013-05-24,2014-05-23,Registration Permit,LUKOIL
+PC/000127/A/0514R,Hess Ghana Exploration Limited,Registration Permit,Deepwater Tano / Cape 3 Points,1,2014-05-13,2015-05-12,Registration Permit,HESS
+PC/000213/A/06-14,Medea Development Limited,Registration Permit,East Cape Three Points,1,2014-06-05,2015-06-04,Registration Permit,MEDEA
+PC/000237/A/08-14,Blue Star Exploration Ghana Limited,Registration Permit,East Keta Offshore; Offshore South West Tano,2,2014-08-21,2015-08-20,Registration Permit,BLUE STAR
+PC/000264/A/10-14,Amni International Petroleum Development Company Limited,Registration Permit,Central Tano Block,1,2014-10-21,2015-10-20,Registration Permit,AMNI
+PC/0010066/A/04-14R,Kosmos Energy Ghana HC,Registration Permit,Deepwater Tano; West Cape Three Points,2,2014-04-10,2015-04-09,Registration Permit,KOSMOS
+PC/001031/A/02-14R,Eni Ghana Exploration and Production Limited,Registration Permit,Offshore Cape Three Points,1,2014-03-13,2015-03-12,Registration Permit,ENI
+PC/001034/A/0514R,Lukoil Overseas Ghana Ltd,Registration Permit,Deepwater Tano / Cape 3 Points,1,2014-05-24,2015-05-23,Registration Permit,LUKOIL
+PC/001037/A/04-14R,Tullow Ghana Limited,Registration Permit,Deepwater Tano; West Cape Three Points,2,2014-04-02,2015-04-01,Registration Permit,TULLOW
+PC/002/E&P/11-14,Heritage Exploration and Production Ghana Limited,Exploration and Development Permit,East Keta Offshore; Offshore South West Tano,2,2014-11-28,2015-11-27,Exploration and Development Permit,HERITAGE
+PC/003/E&P/12-14,PetroSA Ghana Limited,Exploration & Production Permit,Deepwater Tano; West Cape Three Points,2,2014-12-10,2015-12-09,Exploration and Production Permit,PETROSA
+PC/004/E&P/01-15,A-Z Petroleum Products Ghana Limited,Exploration and Development Permit,Deepwater Cape Threee Point West,1,2015-01-23,2016-01-22,Exploration and Development Permit,A-Z
+PC/005/E&P/03-15R,Eni Ghana Exploration and Production Limited,Exploration and Production,Offshore Cape Three Points,1,2015-03-13,2016-03-12,Exploration and Production Permit,ENI
+PC/006/E&P/06-15R,Medea Development Limited,Exploration and Development Permit,East Cape Three Points,1,2015-06-05,2016-06-04,Exploration and Development Permit,MEDEA
+PC/009/E&P/04-15R,Tullow Ghana Limited,Exploration & Production Permit,Deepwater Tano; West Cape Three Points,2,2015-04-02,2016-04-01,Exploration and Production Permit,TULLOW
+PC/010/E&P/07-15,Springfield Exploration & Production Limited,Exploration and Development Permit,West Cape 3 Points Block 2,1,2015-07-14,2016-07-13,Exploration and Development Permit,SPRINGFIELD
+PC/012/E&P/0515R,Hess Ghana Exploration Limited,Exploration and Development Permit,Deepwater Tano / Cape 3 Points,1,2015-05-13,2016-05-12,Exploration and Development Permit,HESS
+PC/013/E&P/04-15R,Kosmos Energy Ghana HC,Exploration & Production Permit,Deepwater Tano; West Cape Three Points,2,2015-04-10,2016-04-09,Exploration and Production Permit,KOSMOS
+PC/014/E&P/11-15,Camac Energy Ghana Limited,Exploration and Development Permit,Expanded Shallow Water Tano,1,2015-11-03,2016-11-02,Exploration and Development Permit,CAMAC
+PC/015/E&P/11-15,Eco Atlantic (Ghana) Limited,Exploration and Development Permit,Deepwater Cape Threee Point West,1,2015-11-17,2016-11-16,Exploration and Development Permit,ECO ATLANTIC
+PC/016/E&P/01-16,Vitol Upstream Ghana Limited,Registration Permit,Offshore Cape Three Points,1,2016-01-19,2017-01-18,Registration Permit,VITOL
+PC/017/E&P/12-15R,PetroSA Ghana Limited,Exploration & Production Permit,Deepwater Tano; West Cape Three Points,2,2015-12-10,2016-12-09,Exploration and Production Permit,PETROSA
+PC/018/E&P/08-15R,Blue Star Exploration Ghana Limited,Exploration and Development Permit,East Keta Offshore; Offshore South West Tano,2,2015-08-21,2016-08-20,Exploration and Development Permit,BLUE STAR
+PC/019/E&P/11-15R,Heritage Exploration and Production Ghana Limited,Exploration and Development Permit,East Keta Offshore; Offshore South West Tano,2,2015-11-28,2016-11-27,Exploration and Development Permit,HERITAGE
+PC/021/E&P/03-16R,Eni Ghana Exploration and Production Limited,Exploration and Production,Offshore Cape Three Points,1,2016-03-13,2017-03-12,Exploration and Production Permit,ENI
+PC/024/E&P/0516R,Hess Ghana Exploration Limited,Exploration and Development Permit,Deepwater Tano / Cape 3 Points,1,2016-05-13,2017-05-12,Exploration and Development Permit,HESS
+PC/027/E&P/06-16R,Medea Development Limited,Exploration and Development Permit,East Cape Three Points,1,2016-06-05,2017-06-04,Exploration and Development Permit,MEDEA
+PC/028/E&P/08-16R,Blue Star Exploration Ghana Limited,Exploration and Development Permit,East Keta Offshore; Offshore South West Tano,2,2016-08-21,2017-08-20,Exploration and Development Permit,BLUE STAR
+PC/029/E&P/01-17R,Vitol Upstream Ghana Limited,Registration Permit,Offshore Cape Three Points,1,2017-01-19,2018-01-18,Registration Permit,VITOL
+PC/031/E&P/07-16R,Springfield Exploration & Production Limited,Exploration and Development Permit,West Cape 3 Points Block 2,1,2016-07-14,2017-07-13,Exploration and Development Permit,SPRINGFIELD
+PC/032/E&P/03-17R,Eni Ghana Exploration and Production Limited,Exploration and Production,Offshore Cape Three Points,1,2017-03-13,2018-03-12,Exploration and Production Permit,ENI
+PC/036/E&P/0517R,Hess Ghana Exploration Limited,Exploration and Development Permit,Deepwater Tano / Cape 3 Points,1,2017-05-13,2018-05-12,Exploration and Development Permit,HESS
+PC/CPA/0000001/03-17,Woodfields Upstream Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2017-03-27,2018-03-26,Contractor Party to Petroleum Agreement,WOODFIELDS
+PC/CPA/00000024/07-17R,Springfield Exploration & Production Limited,Contractor Party to Petroleum Agreement,West Cape 3 Points Block 2,1,2017-07-14,2018-07-13,Contractor Party to Petroleum Agreement,SPRINGFIELD
+PC/CPA/0000004/11-16R,Heritage Exploration and Production Ghana Limited,Contractor Party to Petroleum Agreement,East Keta Offshore; Offshore South West Tano,2,2016-11-28,2017-11-27,Contractor Party to Petroleum Agreement,HERITAGE
+PC/CPA/0000005/04-16R,Kosmos Energy Ghana HC,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2016-04-10,2017-04-09,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000006/04-16R,Tullow Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2016-04-02,2017-04-01,Contractor Party to Petroleum Agreement,TULLOW
+PC/CPA/0000009/12-16R,PetroSA Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2016-12-10,2017-12-09,Contractor Party to Petroleum Agreement,PETROSA
+PC/CPA/0000014/01-18,Petrogulf Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2018-05-10,2019-05-09,Contractor Party to Petroleum Agreement,PETROGULF
+PC/CPA/0000015/03-18R,Eni Ghana Exploration and Production Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4; Offshore Cape Three Points,2,2018-03-13,2019-03-12,Contractor Party to Petroleum Agreement,ENI
+PC/CPA/0000016/11-16R,Eco Atlantic (Ghana) Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2016-11-17,2017-11-16,Contractor Party to Petroleum Agreement,ECO ATLANTIC
+PC/CPA/0000017/11-17R,Eco Atlantic (Ghana) Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2017-11-17,2018-11-16,Contractor Party to Petroleum Agreement,ECO ATLANTIC
+PC/CPA/0000018/04-18R,Kosmos Energy Ghana HC,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2018-04-10,2019-04-09,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/00000225/0518R,Hess Ghana Exploration Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2018-05-13,2019-05-12,Contractor Party to Petroleum Agreement,HESS
+PC/CPA/0000023/03-18R,Woodfields Upstream Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2018-03-27,2019-03-26,Contractor Party to Petroleum Agreement,WOODFIELDS
+PC/CPA/0000025/06-18R,Medea Development Limited,Contractor Party to Petroleum Agreement,East Cape Three Points,1,2018-06-05,2019-06-04,Contractor Party to Petroleum Agreement,MEDEA
+PC/CPA/0000027/07-18R,Springfield Exploration & Production Limited,Contractor Party to Petroleum Agreement,West Cape 3 Points Block 2,1,2018-07-14,2019-07-13,Contractor Party to Petroleum Agreement,SPRINGFIELD
+PC/CPA/0000028/10-16R,Amni International Petroleum Development Company Limited,Contractor Party to Petroleum Agreement,Central Tano Block,1,2016-10-21,2017-10-20,Contractor Party to Petroleum Agreement,AMNI
+PC/CPA/0000029/10-17R,Amni International Petroleum Development Company Limited,Contractor Party to Petroleum Agreement,Central Tano Block,1,2017-10-21,2018-10-20,Contractor Party to Petroleum Agreement,AMNI
+PC/CPA/0000030/10-18R,Amni International Petroleum Development Company Limited,Contractor Party to Petroleum Agreement,Central Tano Block,1,2018-10-21,2019-10-20,Contractor Party to Petroleum Agreement,AMNI
+PC/CPA/0000031/01-19,Vitol Upstream Tano Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2019-01-21,2020-01-20,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000032/11-18R,Eco Atlantic (Ghana) Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2018-11-17,2019-11-16,Contractor Party to Petroleum Agreement,ECO ATLANTIC
+PC/CPA/0000033/08-17R,Blue Star Exploration Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2017-08-21,2018-08-20,Contractor Party to Petroleum Agreement,BLUE STAR
+PC/CPA/0000034/08-18R,Blue Star Exploration Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2018-08-21,2019-08-20,Contractor Party to Petroleum Agreement,BLUE STAR
+PC/CPA/0000035/12-18R,PetroSA Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2018-12-10,2019-12-09,Contractor Party to Petroleum Agreement,PETROSA
+PC/CPA/0000036/03-19,Cola Natural Resources Ghana Limited,Contractor Party to Petroleum Agreement,East Cape Three Points,1,2019-03-21,2020-03-20,Contractor Party to Petroleum Agreement,COLA
+PC/CPA/0000037/11-17R,Heritage Exploration and Production Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2017-11-28,2018-11-27,Contractor Party to Petroleum Agreement,HERITAGE
+PC/CPA/0000038/11-18R,Heritage Exploration and Production Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2018-11-28,2019-11-27,Contractor Party to Petroleum Agreement,HERITAGE
+PC/CPA/0000039/11-19R,Heritage Exploration and Production Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2019-11-28,2020-11-27,Contractor Party to Petroleum Agreement,HERITAGE
+PC/CPA/0000041/03-19R,Woodfields Upstream Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2019-03-27,2020-03-26,Contractor Party to Petroleum Agreement,WOODFIELDS
+PC/CPA/0000042/0619,FT Exploration & Production Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2019-06-19,2020-06-18,Contractor Party to Petroleum Agreement,FT EXPLORATION
+PC/CPA/0000043/01-19R,Petrogulf Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2019-05-10,2020-05-09,Contractor Party to Petroleum Agreement,PETROGULF
+PC/CPA/0000044/07-19,ExxonMobil Exploration and Production Ghana (Deepwater) Limited,Contractor Party to Petroleum Agreement Certificate of Registration,Deepwater Cape Three Points,1,2019-07-12,2020-07-11,Contractor Party to Petroleum Agreement Certificate of Registration,EXXONMOBIL
+PC/CPA/0000045/05-19,Eni Ghana Exploration and Production Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4; Offshore Cape Three Points,2,2019-05-10,2020-05-09,Contractor Party to Petroleum Agreement,ENI
+PC/CPA/0000050/10-19R,Amni International Petroleum Development Company Limited,Contractor Party to Petroleum Agreement,Central Tano Block,1,2019-10-21,2020-10-20,Contractor Party to Petroleum Agreement,AMNI
+PC/CPA/0000051/01-15,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2015-01-23,2016-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/CPA/0000052/01-16R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2016-01-23,2017-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/CPA/0000053/01-17R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2017-01-23,2018-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/CPA/0000054/01-18R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2018-01-23,2019-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/CPA/0000055/01-19R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2019-01-23,2020-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/CPA/0000056/01-18R,Vitol Upstream Ghana Limited,Contractor Party to Petroleum Agreement,Offshore Cape Three Points,1,2018-01-19,2019-01-18,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000057/01-19R,Vitol Upstream Ghana Limited,Contractor Party to Petroleum Agreement,Offshore Cape Three Points,1,2019-01-19,2020-01-18,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000058/01-20R,Vitol Upstream Ghana Limited,Contractor Party to Petroleum Agreement,Offshore Cape Three Points,1,2020-01-19,2021-01-18,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000059/12-19R,PetroSA Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2019-12-10,2020-12-09,Contractor Party to Petroleum Agreement,PETROSA
+PC/CPA/0000062/04-20,Goil Offshore Ghana Limited,Contractor Party to Petroleum Agreement Certificate of Registration,Deepwater Cape Three Points,1,2020-04-03,2021-04-02,Contractor Party to Petroleum Agreement Certificate of Registration,GOIL
+PC/CPA/0000063/07-19R,Springfield Exploration & Production Limited,Contractor Party to Petroleum Agreement,West Cape 3 Points Block 2,1,2019-07-14,2020-07-13,Contractor Party to Petroleum Agreement,SPRINGFIELD
+PC/CPA/0000065/04-20R,Kosmos Energy Ghana HC,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2020-04-10,2021-04-09,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000066/05-20R,Eni Ghana Exploration and Production Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2020-05-10,2021-05-09,Contractor Party to Petroleum Agreement,ENI
+PC/CPA/0000067/07-20R,ExxonMobil Exploration and Production Ghana (Deepwater) Limited,Contractor Party to Petroleum Agreement Certificate of Registration,Deepwater Cape Three Points,1,2020-07-12,2021-07-11,Contractor Party to Petroleum Agreement Certificate of Registration,EXXONMOBIL
+PC/CPA/0000068/0520R,Aker Energy Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2020-05-13,2021-05-12,Contractor Party to Petroleum Agreement,AKER
+PC/CPA/0000069/01-20R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2020-01-23,2021-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/CPA/0000071/01-16R,A-Z Petroleum Products Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2016-01-23,2017-01-22,Contractor Party to Petroleum Agreement,A-Z
+PC/CPA/0000072/01-17R,A-Z Petroleum Products Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2017-01-23,2018-01-22,Contractor Party to Petroleum Agreement,A-Z
+PC/CPA/0000073/01-18R,A-Z Petroleum Products Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2018-01-23,2019-01-22,Contractor Party to Petroleum Agreement,A-Z
+PC/CPA/0000074/01-19R,A-Z Petroleum Products Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2019-01-23,2020-01-22,Contractor Party to Petroleum Agreement,A-Z
+PC/CPA/0000075/01-20R,A-Z Petroleum Products Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2020-01-23,2021-01-22,Contractor Party to Petroleum Agreement,A-Z
+PC/CPA/0000076/08-19R,Blue Star Exploration Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2019-08-21,2020-08-20,Contractor Party to Petroleum Agreement,BLUE STAR
+PC/CPA/0000078/12-20R,PetroSA Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2020-12-10,2021-12-09,Contractor Party to Petroleum Agreement,PETROSA
+PC/CPA/0000079/01-21R,Vitol Upstream Ghana Limited,Contractor Party to Petroleum Agreement,Offshore Cape Three Points,1,2021-01-19,2022-01-18,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000080/01-20R,Vitol Upstream Tano Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2020-01-21,2021-01-20,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000081/01-21R,Vitol Upstream Tano Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2021-01-21,2022-01-20,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000082/01-21R,A-Z Petroleum Products Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2021-01-23,2022-01-22,Contractor Party to Petroleum Agreement,A-Z
+PC/CPA/0000083/01-21R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2021-01-23,2022-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/CPA/0000085/04-21R,Kosmos Energy Ghana HC,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2021-04-10,2022-04-09,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000086/03-20R,Cola Natural Resources Ghana Limited,Contractor Party to Petroleum Agreement,East Cape Three Points,1,2020-03-21,2021-03-20,Contractor Party to Petroleum Agreement,COLA
+PC/CPA/0000087/03-21R,Cola Natural Resources Ghana Limited,Contractor Party to Petroleum Agreement,East Cape Three Points,1,2021-03-21,2022-03-20,Contractor Party to Petroleum Agreement,COLA
+PC/CPA/0000088/04-21R,Goil Offshore Ghana Limited,Contractor Party to Petroleum Agreement Certificate of Registration,Deepwater Cape Three Points,1,2021-04-03,2022-04-02,Contractor Party to Petroleum Agreement Certificate of Registration,GOIL
+PC/CPA/0000089/05-21R,Eni Ghana Exploration and Production Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2021-05-10,2022-05-09,Contractor Party to Petroleum Agreement,ENI
+PC/CPA/0000090/0521R,Aker Energy Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2021-05-13,2022-05-12,Contractor Party to Petroleum Agreement,AKER
+PC/CPA/0000092/08-20R,Blue Star Exploration Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2020-08-21,2021-08-20,Contractor Party to Petroleum Agreement,BLUE STAR
+PC/CPA/0000093/11-20R,Heritage Exploration and Production Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2020-11-28,2021-11-27,Contractor Party to Petroleum Agreement,HERITAGE
+PC/CPA/0000094/0620R,FT Exploration & Production Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2020-06-19,2021-06-18,Contractor Party to Petroleum Agreement,FT EXPLORATION
+PC/CPA/0000095/0621R,FT Exploration & Production Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2021-06-19,2022-06-18,Contractor Party to Petroleum Agreement,FT EXPLORATION
+PC/CPA/0000098/12-21R,PetroSA Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2021-12-10,2022-12-09,Contractor Party to Petroleum Agreement,PETROSA
+PC/CPA/0000100/11-21R,Heritage Exploration and Production Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2021-11-28,2022-11-27,Contractor Party to Petroleum Agreement,HERITAGE
+PC/CPA/0000101/01-22R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2022-01-23,2023-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/CPA/0000103/04-22R,Kosmos Energy Ghana HC,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2022-04-10,2023-04-09,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000104/01-22R,Vitol Upstream Tano Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2022-01-21,2023-01-20,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000105/01-22R,Vitol Upstream Ghana Limited,Contractor Party to Petroleum Agreement,Offshore Cape Three Points,1,2022-01-19,2023-01-18,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000106/0522R,Aker Energy Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2022-05-13,2023-05-12,Contractor Party to Petroleum Agreement,AKER
+PC/CPA/0000106/0523R,Aker Energy Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2023-05-13,2024-05-12,Contractor Party to Petroleum Agreement,AKER
+PC/CPA/0000108/0515,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2015-05-24,2016-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000109/0516R,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2016-05-24,2017-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000110/0517R,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2017-05-24,2018-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000111/0518R,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2018-05-24,2019-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000112/0519R,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2019-05-24,2020-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000113/0520R,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2020-05-24,2021-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000114/0521R,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2021-05-24,2022-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000115/0522R,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2022-05-24,2023-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000116/05-22R,Eni Ghana Exploration and Production Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2022-05-10,2023-05-09,Contractor Party to Petroleum Agreement,ENI
+PC/CPA/0000117/04-22R,Goil Offshore Ghana Limited,Contractor Party to Petroleum Agreement Certificate of Registration,Deepwater Cape Three Points,1,2022-04-03,2023-04-02,Contractor Party to Petroleum Agreement Certificate of Registration,GOIL
+PC/CPA/0000118/0622R,FT Exploration & Production Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2022-06-19,2023-06-18,Contractor Party to Petroleum Agreement,FT EXPLORATION
+PC/CPA/0000119/01-22R,A-Z Petroleum Products Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2022-01-23,2023-01-22,Contractor Party to Petroleum Agreement,A-Z
+PC/CPA/0000120/03-20R,Woodfields Upstream Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2020-03-27,2021-03-26,Contractor Party to Petroleum Agreement,WOODFIELDS
+PC/CPA/0000121/03-21R,Woodfields Upstream Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2021-03-27,2022-03-26,Contractor Party to Petroleum Agreement,WOODFIELDS
+PC/CPA/0000122/03-22R,Woodfields Upstream Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2022-03-27,2023-03-26,Contractor Party to Petroleum Agreement,WOODFIELDS
+PC/CPA/0000124/11-22R,Heritage Exploration and Production Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2022-11-28,2023-11-27,Contractor Party to Petroleum Agreement,HERITAGE
+PC/CPA/0000125/12-22R,PetroSA Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2022-12-10,2023-12-09,Contractor Party to Petroleum Agreement,PETROSA
+PC/CPA/0000127/10-20R,Amni International Petroleum Development Company Limited,Contractor Party to Petroleum Agreement,Central Tano Block,1,2020-10-21,2021-10-20,Contractor Party to Petroleum Agreement,AMNI
+PC/CPA/0000128/10-21R,Amni International Petroleum Development Company Limited,Contractor Party to Petroleum Agreement,Central Tano Block,1,2021-10-21,2022-10-20,Contractor Party to Petroleum Agreement,AMNI
+PC/CPA/0000130/04-23R,Kosmos Energy Ghana HC,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2023-04-10,2024-04-09,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000131/05-23,Kosmos Energy Ghana Investments,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2023-05-11,2024-05-10,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000134/0623R,FT Exploration & Production Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2023-06-19,2024-06-18,Contractor Party to Petroleum Agreement,FT EXPLORATION
+PC/CPA/0000135/10-22R,Amni International Petroleum Development Company Limited,Contractor Party to Petroleum Agreement,Central Tano Block,1,2022-10-21,2023-10-20,Contractor Party to Petroleum Agreement,AMNI
+PC/CPA/0000136/05-23R,Eni Ghana Exploration and Production Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2023-05-10,2024-05-09,Contractor Party to Petroleum Agreement,ENI
+PC/CPA/0000137/01-23R,A-Z Petroleum Products Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2023-01-23,2024-01-22,Contractor Party to Petroleum Agreement,A-Z
+PC/CPA/0000138/01-23R,Vitol Upstream Ghana Limited,Contractor Party to Petroleum Agreement,Offshore Cape Three Points,1,2023-01-19,2024-01-18,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000139/04-23R,GOIL Upstream Limited,Contractor Party to Petroleum Agreement Certificate of Registration,Deepwater Cape Three Points,1,2023-04-03,2024-04-02,Contractor Party to Petroleum Agreement Certificate of Registration,GOIL
+PC/CPA/0000140/0523R,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2023-05-24,2024-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000141/03-23R,Woodfields Upstream Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2023-03-27,2024-03-26,Contractor Party to Petroleum Agreement,WOODFIELDS
+PC/CPA/0000142/01-23R,Vitol Upstream Tano Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2023-01-21,2024-01-20,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000143/10-23R,Amni International Petroleum Development Company Limited,Contractor Party to Petroleum Agreement,Central Tano Block,1,2023-10-21,2024-10-20,Contractor Party to Petroleum Agreement,AMNI
+PC/CPA/0000145/01-23R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2023-01-23,2024-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/CPA/0000146/12-23R,PetroSA Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano; West Cape Three Points,2,2023-12-10,2024-12-09,Contractor Party to Petroleum Agreement,PETROSA
+PC/CPA/0000148/11-23R,Heritage Exploration and Production Ghana Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2023-11-28,2024-11-27,Contractor Party to Petroleum Agreement,HERITAGE
+PC/CPA/0000149/04-24,GNPC Exploration and Production Company Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2024-04-18,2025-04-17,Contractor Party to Petroleum Agreement,GNPC
+PC/CPA/0000150/04-24,GNPC Exploration and Production Company Limited,Contractor Party to Petroleum Agreement,West Cape 3 Points Block 2,1,2024-04-18,2025-04-17,Contractor Party to Petroleum Agreement,GNPC
+PC/CPA/0000151/04-24,GNPC Exploration and Production Company Limited,Contractor Party to Petroleum Agreement,Offshore South West Tano,1,2024-04-18,2025-04-17,Contractor Party to Petroleum Agreement,GNPC
+PC/CPA/0000152/04-24,GNPC Exploration and Production Company Limited,Contractor Party to Petroleum Agreement,Deepwater Cape Threee Point West,1,2024-04-18,2025-04-17,Contractor Party to Petroleum Agreement,GNPC
+PC/CPA/0000153/04-24,GNPC Exploration and Production Company Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2024-04-18,2025-04-17,Contractor Party to Petroleum Agreement,GNPC
+PC/CPA/0000154/04-24R,Kosmos Energy Ghana HC,Contractor Party to Petroleum Agreement,West Cape Three Points,1,2024-04-10,2025-04-09,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000155/05-24R,Kosmos Energy Ghana Investments,Contractor Party to Petroleum Agreement,West Cape Three Points,1,2024-05-11,2025-05-10,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000156/04-24R,Kosmos Energy Ghana HC,Contractor Party to Petroleum Agreement,Deepwater Tano,1,2024-04-10,2025-04-09,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000157/05-24R,Kosmos Energy Ghana Investments,Contractor Party to Petroleum Agreement,Deepwater Tano,1,2024-05-11,2025-05-10,Contractor Party to Petroleum Agreement,KOSMOS
+PC/CPA/0000158/0524R,Pecan Energies Ghana Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2024-05-13,2025-05-12,Contractor Party to Petroleum Agreement,PECAN
+PC/CPA/0000159/0524R,Lukoil Overseas Ghana Tano Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2024-05-24,2025-05-23,Contractor Party to Petroleum Agreement,LUKOIL
+PC/CPA/0000160/0624R,FT Exploration & Production Limited,Contractor Party to Petroleum Agreement,Deepwater Tano / Cape 3 Points,1,2024-06-19,2025-06-18,Contractor Party to Petroleum Agreement,FT EXPLORATION
+PC/CPA/0000161/01-24R,Vitol Upstream Tano Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2024-01-21,2025-01-20,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000162/01-24R,Vitol Upstream Ghana Limited,Contractor Party to Petroleum Agreement,Offshore Cape Three Points,1,2024-01-19,2025-01-18,Contractor Party to Petroleum Agreement,VITOL
+PC/CPA/0000163/05-24R,Eni Ghana Exploration and Production Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2024-05-10,2025-05-09,Contractor Party to Petroleum Agreement,ENI
+PC/CPA/0000164/04-24R,GOIL Upstream Limited,Contractor Party to Petroleum Agreement Certificate of Registration,Deepwater Cape Three Points,1,2024-04-03,2025-04-02,Contractor Party to Petroleum Agreement Certificate of Registration,GOIL
+PC/CPA/0000165/03-24R,Woodfields Upstream Limited,Contractor Party to Petroleum Agreement,Cape Theree Points Block 4,1,2024-03-27,2025-03-26,Contractor Party to Petroleum Agreement,WOODFIELDS
+PC/CPA/0000169/10-24R,Amni International Petroleum Development Company (Ghana) Limited,Registration Permit,Central Tano Block,1,2024-10-21,2025-10-20,Registration Permit,AMNI
+PC/CPA/0000186/11-25R,Heritage Exploration and Production Ghana Ltd,Registration Permit,Offshore South West Tano Contract Area,1,2025-11-25,2026-11-24,Registration Permit,HERITAGE
+PC/CPA/0000187/12-25R,Petrosa Ghana Limited,Registration Permit,Deepwater Tano Block,1,2025-12-10,2026-12-10,Registration Permit,PETROSA
+PC/CPA/0000188/12-25R,Petrosa Ghana Limited,Registration Permit,West Cape Three Points Block,1,2025-12-10,2026-12-09,Registration Permit,PETROSA
+PC/CPA/0000189/12-25R,GNPC Exploration and Production Company Limited,Registration Permit,West Cape Three Points Block,1,2025-12-18,2026-12-17,Registration Permit,GNPC
+PC/CPA/0000190/12-25R,GNPC Exploration and Production Company Limited,Registration Permit,Deepwater Tano Block,1,2025-12-18,2026-12-17,Registration Permit,GNPC
+PC/CPA/0000191/01-26R,Vitol Upstream Tano Limited,Registration Permit,Cape Three Points Block 4,1,2026-01-21,2027-01-20,Registration Permit,VITOL
+PC/CPA/0000192/01-26R,Vitol Upstream Ghana Limited,Registration Permit,Cape Three Points Block 4,1,2026-01-19,2027-01-18,Registration Permit,VITOL
+PC/CPA/0000193/10-25R,Amni International Petroleum Development Company Limited,Registration Permit,Central Tano Block,1,2025-10-21,2027-10-20,Registration Permit,AMNI
+PC/CPA/0000194/04-26R,Goil Upstream Ltd,Registration Permit,Deepwater Cape Three Points Contract Area,1,2026-04-03,2027-04-02,Registration Permit,GOIL
+PC/CPA/0000195/03-26R,Woodfields Upstream Limited,Registration Permit,Cape Three Points Block 4 Contract Area,1,2026-03-27,2027-03-26,Registration Permit,WOODFIELDS
+PC/CPA/0000196/04-26R,Kosmos Energy Ghana Limited,Registration Permit,West Cape Three Points Block,1,2026-04-10,2027-04-09,Registration Permit,KOSMOS
+PC/CPA/0000197/04-26R,Kosmos Energy Ghana HC,Registration Permit,Deepwater Tano Block,1,2026-04-10,2027-04-09,Registration Permit,KOSMOS
+PC/CPA/0000198/05-26R,Kosmos Energy Ghana Investments,Registration Permit,West Cape Three Points Block,1,2026-05-11,2027-05-10,Registration Permit,KOSMOS
+PC/CPA/0000199/05-26R,Kosmos Energy Ghana Investments,Registration Permit,Deepwater Tano Block,1,2026-05-11,2027-05-10,Registration Permit,KOSMOS
+PC/CPA/0000200/05-26R,Lukoil Overseas Ghana Limited,Registration Permit,Deepwater Tano / Cape Three Points,1,2026-05-24,2027-05-23,Registration Permit,LUKOIL
+PC/CPA/0000201/05-26R,Pecan Energies Ghana Limited,Registration Permit,Deepwater Tano / Cape Three Points,1,2026-05-13,2027-05-12,Registration Permit,PECAN
+PC/CPA/0000202/06-26R,FT Exploration and Production Company Limited,Registration Permit,Cape Three Points Block 4,1,2026-06-19,2027-06-18,Registration Permit,FT EXPLORATION
+PC/CPA/0000203/05-26R,Eni Exploration and Production Company Limited,Registration Permit,Cape Three Points Block 4 Contract area,1,2026-05-10,2027-05-09,Registration Permit,ENI
+PC/DP/0000001/0118,Aker Energy Ghana Limited,Drilling Permit,Deepwater Tano / Cape 3 Points,1,2018-11-01,2019-05-31,Drilling Permit,AKER
+PC/DP/0000001/0121,Aker Energy Ghana Limited,Drilling Permit,Deepwater Tano / Cape 3 Points,1,,,Drilling Permit,AKER
+PC/DP/0000003/0119,Aker Energy Ghana Limited,Drilling Permit,Deepwater Tano / Cape 3 Points,1,2019-01-10,2019-07-09,Drilling Permit,AKER
+PC/DP/0000004/0119,Aker Energy Ghana Limited,Drilling Permit,Deepwater Tano / Cape 3 Points,1,2019-01-10,2019-07-09,Drilling Permit,AKER
+PC/DP/0000004/02-19,Eni Ghana Exploration and Production Limited,Drilling Permit,Cape Theree Points Block 4,1,2019-02-11,2019-08-10,Drilling Permit,ENI
+PC/DP/0000007/09-19,Springfield Exploration & Production Limited,Drilling Permit,West Cape 3 Points Block 2,1,2019-09-10,2020-03-09,Drilling Permit,SPRINGFIELD
+PC/DP/0000009/09-19,Springfield Exploration & Production Limited,Drilling Permit,West Cape 3 Points Block 2,1,2019-09-10,2020-03-09,Drilling Permit,SPRINGFIELD
+PC/DP/0000011/04-21,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2021-04-28,2021-10-27,Drilling Permit,TULLOW
+PC/DP/0000013/07-21,Tullow Ghana Limited,Drilling Permit,Deepwater Tano; West Cape Three Points,2,2021-07-21,2022-01-20,Drilling Permit,TULLOW
+PC/DP/0000014/08-21,Tullow Ghana Limited,Drilling Permit,Deepwater Tano,1,2021-08-26,2022-02-25,Drilling Permit,TULLOW
+PC/DP/0000015/11-21,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2021-11-22,2022-05-21,Drilling Permit,TULLOW
+PC/DP/0000016/04-21,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2021-04-26,2021-10-25,Drilling Permit,TULLOW
+PC/DP/0000017/12-21,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2021-12-09,2022-06-08,Drilling Permit,TULLOW
+PC/DP/0000018/12-21,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2022-01-24,2022-07-23,Drilling Permit,TULLOW
+PC/DP/0000019/01-22,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2022-01-24,2022-07-23,Drilling Permit,TULLOW
+PC/DP/0000020/03-22,Eni Ghana Exploration and Production Limited,Drilling Permit,Cape Theree Points Block 4,1,2022-03-15,2022-09-14,Drilling Permit,ENI
+PC/DP/0000021/06-22,Tullow Ghana Limited,Drilling Permit,Deepwater Tano,1,2021-06-09,2022-12-08,Drilling Permit,TULLOW
+PC/DP/0000022/06-22,Eni Ghana Exploration and Production Limited,Drilling Permit,Cape Theree Points Block 4; Deepwater Tano,2,2021-06-10,2022-12-09,Drilling Permit,ENI
+PC/DP/0000023/06-22,Tullow Ghana Limited,Drilling Permit,Deepwater Tano,1,2021-06-10,2022-12-09,Drilling Permit,TULLOW
+PC/DP/0000024/10-22,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,,2023-04-07,Drilling Permit,TULLOW
+PC/DP/0000025/10-22,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,,2023-04-07,Drilling Permit,TULLOW
+PC/DP/0000026/10-22,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,,2023-04-07,Drilling Permit,TULLOW
+PC/DP/0000027/02-23,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2023-02-13,2023-08-12,Drilling Permit,TULLOW
+PC/DP/0000028/02-23,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2023-02-13,2023-08-12,Drilling Permit,TULLOW
+PC/DP/0000029/05-23,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2023-05-24,2023-11-23,Drilling Permit,TULLOW
+PC/DP/0000030/11-23,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2023-11-10,2024-05-09,Drilling Permit,TULLOW
+PC/DP/0000031/11-23,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2023-11-10,2024-05-09,Drilling Permit,TULLOW
+PC/DP/0000032/11-23,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2023-11-10,2024-05-09,Drilling Permit,TULLOW
+PC/DP/0000033/02-24,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2024-02-15,2024-08-14,Drilling Permit,TULLOW
+PC/DP/0000034/02-24,Tullow Ghana Limited,Drilling Permit,West Cape Three Points,1,2024-02-15,2024-08-14,Drilling Permit,TULLOW
+PC/DP/0000035/07-24,Eni Ghana Exploration and Production Limited,Drilling Permit,Cape Theree Points Block 4,1,2024-07-15,2024-12-14,Drilling Permit,ENI
+PC/DP/0000040/10-25,Tullow Ghana Limited,Drilling Permit,To drill JAS-P (J74 – P) Well,1,2025-10-28,2026-04-27,Drilling Permit,TULLOW
+PC/DP/0000041/11-25,Tullow Ghana Limited,Drilling Permit,To drill JAT -WI (J73 – WI) Well,1,2025-11-26,2026-05-27,Drilling Permit,TULLOW
+PC/DP/0000042/12-25,Tullow Ghana Limited,Drilling Permit,To drill JCH - P (J75 – P) Well,1,2025-12-09,2026-06-08,Drilling Permit,TULLOW
+PC/DP/0000043/10-25,Eni Ghana Exploration and Production Limited,Drilling Permit,To drill OP-3 ST Well,1,2025-10-07,2026-04-06,Drilling Permit,ENI
+PC/DP/0000044/03-26,Tullow Ghana Limited,Drilling Permit,To drill JAK - P (J76 – P) Well,1,2026-03-05,2026-09-04,Drilling Permit,TULLOW
+PC/DP/0000045/03-26,Tullow Ghana Limited,Drilling Permit,To drill JBV-P (J77 – P) Well,1,2026-03-05,2026-09-04,Drilling Permit,TULLOW
+PC/DP/0000046/06-26,Eni Exploration and Production Company Limited,Drilling Permit,To drill GI-3 ST Well,1,2026-06-30,2027-12-29,Drilling Permit,ENI
+PC/EDP/0000001/06-17R,Medea Development Limited,Exploration and Development Permit,East Cape Three Points,1,2017-06-05,2018-06-04,Exploration and Development Permit,MEDEA
+PC/EDP/0000004/11-16R,Eco Atlantic (Ghana) Limited,Exploration and Development Permit,Deepwater Cape Threee Point West,1,2016-11-17,2017-11-16,Exploration and Development Permit,ECO ATLANTIC
+PC/EDP/0000005/11-17R,Eco Atlantic (Ghana) Limited,Exploration and Development Permit,Deepwater Cape Threee Point West,1,2017-11-17,2018-11-16,Exploration and Development Permit,ECO ATLANTIC
+PC/EDP/0000006/05-18,Eni Ghana Exploration and Production Limited,As Operator in respect of Cape Three Points Block 4,Cape Theree Points Block 4,1,2018-05-10,2019-05-09,Misfiled (purpose text in type field),ENI
+PC/EDP/0000011/07-17R,Springfield Exploration & Production Limited,Exploration and Development Permit,West Cape 3 Points Block 2,1,2017-07-14,2018-07-13,Exploration and Development Permit,SPRINGFIELD
+PC/EDP/0000012/06-18R,Medea Development Limited,Exploration and Development Permit,East Cape Three Points,1,2018-06-05,2019-06-04,Exploration and Development Permit,MEDEA
+PC/EDP/0000014/07-18R,Springfield Exploration & Production Limited,Exploration and Development Permit,West Cape 3 Points Block 2,1,2018-07-14,2019-07-13,Exploration and Development Permit,SPRINGFIELD
+PC/EDP/0000015/10-16R,Amni International Petroleum Development Company Limited,Exploration and Development Permit,Central Tano Block,1,2016-10-21,2017-10-20,Exploration and Development Permit,AMNI
+PC/EDP/0000016/10-17R,Amni International Petroleum Development Company Limited,Exploration and Development Permit,Central Tano Block,1,2017-10-21,2018-10-20,Exploration and Development Permit,AMNI
+PC/EDP/0000016/10-18R,Amni International Petroleum Development Company Limited,Exploration and Development Permit,Central Tano Block,1,2018-10-21,2019-10-20,Exploration and Development Permit,AMNI
+PC/EDP/0000019/07-19,ExxonMobil Exploration and Production Ghana (Deepwater) Limited,Exploration and Development Permit,Deepwater Cape Three Points,1,2019-07-12,2020-07-11,Exploration and Development Permit,EXXONMOBIL
+PC/EDP/0000020/05-19,Eni Ghana Exploration and Production Limited,Exploration and Development Permit,Cape Theree Points Block 4,1,2019-05-10,2020-05-09,Exploration and Development Permit,ENI
+PC/EDP/0000023/10-19R,Amni International Petroleum Development Company Limited,Exploration and Development Permit,Central Tano Block,1,2019-10-21,2020-10-20,Exploration and Development Permit,AMNI
+PC/EDP/0000024/11-18R,Eco Atlantic (Ghana) Limited,Exploration and Development Permit,Deepwater Cape Threee Point West,1,2018-11-17,2019-11-16,Exploration and Development Permit,ECO ATLANTIC
+PC/EDP/0000025/11-19R,Eco Atlantic (Ghana) Limited,Exploration and Development Permit,Deepwater Cape Threee Point West,1,2019-11-17,2020-11-16,Exploration and Development Permit,ECO ATLANTIC
+PC/EDP/0000026/07-19R,Springfield Exploration & Production Limited,Exploration and Development Permit,West Cape 3 Points Block 2,1,2019-07-14,2020-07-13,Exploration and Development Permit,SPRINGFIELD
+PC/EDP/0000027/05-20R,Eni Ghana Exploration and Production Limited,Exploration and Development Permit,Cape Theree Points Block 4,1,2020-05-10,2021-05-09,Exploration and Development Permit,ENI
+PC/EDP/0000028/07-20R,ExxonMobil Exploration and Production Ghana (Deepwater) Limited,Exploration and Development Permit,Deepwater Cape Three Points,1,2020-07-12,2021-07-11,Exploration and Development Permit,EXXONMOBIL
+PC/EDP/0000029/0520R,Aker Energy Ghana Limited,Exploration and Development Permit,Deepwater Tano / Cape 3 Points,1,2020-05-13,2021-05-12,Exploration and Development Permit,AKER
+PC/EDP/0000031/05-21R,Eni Ghana Exploration and Production Limited,Exploration and Development Permit,Cape Theree Points Block 4,1,2021-05-10,2022-05-09,Exploration and Development Permit,ENI
+PC/EDP/0000032/0521R,Aker Energy Ghana Limited,Exploration and Development Permit,Deepwater Tano / Cape 3 Points,1,2021-05-13,2022-05-12,Exploration and Development Permit,AKER
+PC/EDP/0000034/10-20R,Amni International Petroleum Development Company Limited,Exploration and Development Permit,Central Tano Block,1,2020-10-21,2021-10-20,Exploration and Development Permit,AMNI
+PC/EDP/0000035/0522R,Aker Energy Ghana Limited,Exploration and Development Permit,Deepwater Tano / Cape 3 Points,1,2022-05-13,2023-05-12,Exploration and Development Permit,AKER
+PC/EDP/0000037/10-21R,Amni International Petroleum Development Company Limited,Exploration and Development Permit,Central Tano Block,1,2021-10-21,2022-10-20,Exploration and Development Permit,AMNI
+PC/EDP/0000038/01-21,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2021-01-23,2022-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/EDP/0000039/01-22R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2022-01-23,2023-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/EDP/0000040/05-22R,Eni Ghana Exploration and Production Limited,Exploration and Development Permit,Cape Theree Points Block 4,1,2022-05-10,2023-05-09,Exploration and Development Permit,ENI
+PC/EDP/0000041/0523R,Aker Energy Ghana Limited,Exploration and Development Permit,Deepwater Tano / Cape 3 Points,1,2023-05-13,2024-05-12,Exploration and Development Permit,AKER
+PC/EDP/0000042/10-22R,Amni International Petroleum Development Company Limited,Exploration and Development Permit,Central Tano Block,1,2022-10-21,2023-10-20,Exploration and Development Permit,AMNI
+PC/EDP/0000043/05-23R,Eni Ghana Exploration and Production Limited,Exploration and Development Permit,Cape Theree Points Block 4,1,2023-05-10,2024-05-09,Exploration and Development Permit,ENI
+PC/EDP/0000044/10-23R,Amni International Petroleum Development Company Limited,Exploration and Development Permit,Central Tano Block,1,2023-10-21,2024-10-20,Exploration and Development Permit,AMNI
+PC/EDP/0000045/01-23R,Base Energy Ghana Limited,Contractor Party to Petroleum Agreement,Expanded Shallow Water Tano,1,2023-01-23,2024-01-22,Contractor Party to Petroleum Agreement,BASE ENERGY
+PC/EDP/0000046/0524R,Pecan Energies Ghana Limited,Exploration and Development Permit,Deepwater Tano / Cape 3 Points,1,2024-05-13,2025-05-12,Exploration and Development Permit,PECAN
+PC/EDP/0000047/05-24R,Eni Ghana Exploration and Production Limited,Exploration and Development Permit,Cape Theree Points Block 4,1,2024-05-10,2025-05-09,Exploration and Development Permit,ENI
+PC/EDP/0000054/10-25R,Amni International Petroleum Development Company Limited,Registration Permit,Central Tano Block,1,2025-10-21,2026-10-20,Registration Permit,AMNI
+PC/EDP/0000055/05-26R,Pecan Energies Ghana Limited,Registration Permit,Deepwater Tano / Cape Three Points,1,2026-05-13,2027-05-12,Registration Permit,PECAN
+PC/EDP/0000056/05-26R,Eni Exploration and Production Company Limited,Registration Permit,Cape Three Points Block 4,1,2026-05-10,2027-05-09,Registration Permit,ENI
+PC/PC/0000001/A/04-15R,Tullow Ghana Limited,Production Permit,Deepwater Tano; West Cape Three Points,2,2015-04-02,2016-04-01,Production Permit,TULLOW

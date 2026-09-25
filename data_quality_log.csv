@@ -1,0 +1,26 @@
+id,dataset,issue,example,rows_affected,action_taken
+1,Production,Asterisks on March and April 2026 rows with no explanatory note,"Web table, Jubilee",2,"Flag kept in shutdown_flag, cause unknown"
+2,Production,Unlabelled extra column repeating oil output,"TEN 2026 web table, April to June",3,Column dropped
+3,Production,Same gas flow reported in MMscf/d in one year and MMscf in another,"TEN gas imported from Jubilee, 2024 against 2025",24,Jubilee export figures used instead
+4,Production,Same gas flow labelled as import in one source and export in another,Jubilee 2026 web against 2024 and 2025 Excel,6,Mapped to export_to_ten for Jubilee
+5,Production,Spelling and spacing errors in column headers,"Asssociated, Lifiting, double spaces",6,Standard column names applied
+6,Production,Data published about three months behind,July to September 2026 blank on 25 September 2026,9,"None, noted as lag"
+7,Production,2024 file served from a page address labelled 2023,download/2023-fields-production-data-2,1,"File fingerprint checked, contents differ from 2025"
+8,Liftings,18 spellings for 8 lifting entities,"TGL AND PETROSA, Tullow Ghana Limited & PetroSA",90,Keyword mapping to party and group
+9,Liftings,"OCTP cargo volumes carry decimals, other fields use whole barrels","9,425,948.01",10,"None, noted"
+10,Operators,Operator names published only as logo images,"tullow.png, eni.png",14,Names mapped from image file names
+11,Operators,Operators page and permit register disagree on active operators,5 listed operators with no active permit,5,"None, flagged for follow-up"
+12,Permits,Public register blocks automated access and offers no bulk download,"Cloudflare check, 10 rows per page",300,Exported through browser table controls
+13,Permits,Missing start or end dates,Kosmos PC/0010066/A/04-14R,6,"1 start filled from twin row, rest left blank"
+14,Permits,"Year typed wrongly, end date before start date","PC/013/E&P/04-15R start 2025, should be 2015",5,Corrected using issue date in permit number
+15,Permits,Exact duplicate rows,Tullow PC/000057/A/04-13,5,Duplicates removed
+16,Permits,Same permit carries different dates in different rows,Kosmos PC/0010066/A/04-14R,2,Start date filled from twin row
+17,Permits,Permit type spelled three ways and purpose text in type field,Exploration & Production Permit,8,Standard type names applied
+18,Permits,38 contractor name spellings for 25 company groups,Lukoil under 4 spellings,261,Keyword mapping to group
+19,Permits,Main operator shows no active permit,"Tullow, 0 of 31 permits active",31,"None, flagged for follow-up"
+20,Gas balance,About 1% of OCTP gas unaccounted every year,"4,530 MMscf, Jan 2024 to Jun 2026",30,"None, flagged for follow-up"
+21,Gas balance,Jubilee to TEN gas transfers recorded inconsistently,"TEN balance 2025, October closes, other months over-correct",4,"None, flagged for follow-up"
+22,Operators,Same blocks under three operator names across sources,"OPCO on operators page and Outlook, Blue Star in permit register",2,Flagged for follow-up
+23,Operators,Operators page omits blocks covered in the Outlook report,"Voltaian Basin, South Deepwater Tano",2,Flagged for follow-up
+24,Outlook report,Procurement lines repeated in Tullow forecast,Ports and Harbour Agency Services listed 3 times,10,Duplicates removed
+25,Outlook report,Section title boxes read as tables by PDF tools,Pages 10 and 13,2,Text parsed by headings instead

@@ -1,0 +1,122 @@
+company,page,item,scope,method,start,duration,method_std,logistics_related,dup_line,start_q,open_from_q3_2026
+ENI,37,Provision of Marine Auditing Service and Marine Engineering Support,Provision of Marine Auditing Service and Marine Engineering Support,Single Source,Q1 2026,36 Months,Single or sole source,False,False,20261,False
+ENI,37,"Material Handling, Shipment, Ff, Customs","Material Handling, Shipment, Ff, Customs",Competitive Tender,Q1 2026,24 Months,Competitive tender,True,False,20261,False
+ENI,37,Riser Integrity Service and Monitoring,Riser Integrity Service and Monitoring,Sole sourcing,Q1 2026,36 Months,Single or sole source,False,False,20261,False
+ENI,37,Inspection Maintenance Repair (IMR),Inspection Maintenance Repair (IMR),Competitive Tender,Q1 2026,24 Months,Competitive tender,False,False,20261,False
+ENI,37,Provision of Coiled Tubing & Nitrogen Pumping Services & Supplies,Provision of Coiled Tubing & Nitrogen Pumping Services & Supplies,Competitive Tender,Q1 2026,24 Months,Competitive tender,False,False,20261,False
+ENI,37,Subsea Landing String,Subsea Landing String,Sole sourcing,Q1 2026,12 Months,Single or sole source,False,False,20261,False
+ENI,37,Provision of Environmental Services,Provision of Environmental Services,Competitive Tender,Q1 2026,24 Months,Competitive tender,False,False,20261,False
+ENI,37,Provision of Oil Spill Services,Provision of Oil Spill Services,Sole sourcing,Q1 2026,36 Months,Single or sole source,False,False,20261,False
+ENI,37,Provision of Geotechnical Survey Gye Nyame Field,Provision of Geotechnical Survey Gye Nyame Field,Competitive Tender,Q1 2026,12 Months,Competitive tender,False,False,20261,False
+ENI,37,Marine Fleet to Support Drilling Activities (PSV),Marine Fleet to Support Drilling Activities (PSV),Competitive Tender,Q1 2026,3 Months,Competitive tender,True,False,20261,False
+ENI,37,Provision of Waste Management Services,Provision of Waste Management Services,Competitive Tender,Q1 2026,36 Months,Competitive tender,False,False,20261,False
+ENI,37,Supply of Subsea Production System for Gye Nyame Field,Supply of Subsea Production System for Gye Nyame Field,Single Source,Q1 2026,24 Months,Single or sole source,False,False,20261,False
+ENI,37,Provision of Geophysical Survey - Gye Nyame Field,Provision of Geophysical Survey - Gye Nyame Field,Competitive Tender,Q1 2026,12 Months,Competitive tender,False,False,20261,False
+ENI,37,Provision of Surf Offshore Transportation & Installation - Gye Nyame Field,Provision of Surf Offshore Transportation & Installation - Gye Nyame Field,Competitive Tender,Q1 2026,24 Months,Competitive tender,True,False,20261,False
+ENI,37,Provision of Installation of Rigid Offshore Pipeline - Gye Nyame Field,Provision of Installation of Rigid Offshore Pipeline - Gye Nyame Field,Competitive Tender,Q1 2026,36 Months,Competitive tender,False,False,20261,False
+ENI,37,PMESS - Gye Nyame,PMESS - Gye Nyame,Competitive Tender,Q1 2026,24 Months,Competitive tender,False,False,20261,False
+TULLOW,38,Provision of OCTG,Provision of OCTG,Competitive Tender,Q4 2026,TBC,Competitive tender,False,False,20264,True
+TULLOW,38,Subsea: Supply of Splitter Manifolds,Subsea: Supply of Splitter Manifolds,Competitive Tender,Q3 2026,36 Months,Competitive tender,False,False,20263,True
+TULLOW,38,Subsea: Metrology & Dimensional Control Survey Services,Subsea: Metrology & Dimensional Control Survey Services,Competitive Tender,Q2 2026,36 Months,Competitive tender,False,False,20262,False
+TULLOW,38,Logistics: Onshore Cranes & Forklift Services,Logistics: Onshore Cranes & Forklift Services,Competitive Tender,Q3 2026,36 Months,Competitive tender,True,False,20263,True
+TULLOW,38,Operations: FPSO Offshore Manpower Services,Operations: FPSO Offshore Manpower Services,Competitive Tender,Q3 2026,36 Months,Competitive tender,False,False,20263,True
+TULLOW,38,Logistics: Ports & Harbour Agency Services,Logistics: Ports & Harbour Agency Services,Competitive Tender,Q4 2026,36 Months,Competitive tender,True,True,20264,True
+TULLOW,38,Chemicals (Commodity Supply),Chemicals (Commodity Supply),Competitive Tender,Q2 2026,36 Months,Competitive tender,False,True,20262,False
+TULLOW,38,Pumps & Emergency Generator & HV/LV Motors,Pumps & Emergency Generator & HV/LV Motors,Competitive Tender,Q2 2026,36 Months,Competitive tender,False,True,20262,False
+TULLOW,38,Offshore Catering and Hotel Services,Offshore Catering and Hotel Services,Competitive Tender,Q2 2026,36 Months,Competitive tender,False,True,20262,False
+TULLOW,38,Chemicals (Speciality and Management Services),Chemicals (Speciality and Management Services),Competitive Tender,Q2 2026,36 Months,Competitive tender,False,True,20262,False
+TULLOW,38,Contingent workforce and recruitment outsource services,Contingent workforce and recruitment outsource services,Competitive Tender,Q1 2027,36 Months,Competitive tender,False,True,20271,True
+TULLOW,38,Subsea: Electronic Distribution Unit (EDU) Build,Subsea: Electronic Distribution Unit (EDU) Build,Competitive Tender,Q3 2026,36 Months,Competitive tender,False,False,20263,True
+TULLOW,38,Logistics: Marine Warranty Surveyor,Logistics: Marine Warranty Surveyor,Competitive Tender,Q2 2026,36 Months,Competitive tender,True,False,20262,False
+TULLOW,39,Safety Equipment Maintenance,Safety Equipment Maintenance,Competitive Tender,Q3 2026,36 Months,Competitive tender,False,False,20263,True
+TULLOW,39,IMR support for Jubilee FPSO CALM Buoy,IMR support for Jubilee FPSO CALM Buoy,Sole sourcing,Q4 2026,36 Months,Single or sole source,False,True,20264,True
+TULLOW,39,Private Medical insurance,Private Medical insurance,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,True,20262,False
+TULLOW,39,"Supply of hang-off system, hose string and strainer and installation services for replacement of Seawater Lift pump (SWLP)-B","Supply of hang-off system, hose string and strainer and installation services for replacement of Seawater Lift pump (SWLP)-B",Single Source,Q2 2026,9 Months,Single or sole source,False,False,20262,False
+TULLOW,39,"Ops: Engineering, Fabrication & Installation Services","Ops: Engineering, Fabrication & Installation Services",Competitive Tender,Q4 2026,36 Months,Competitive tender,False,False,20264,True
+TULLOW,39,"Supply of Lubricants, Greases and CALM Buoy Consumables","Supply of Lubricants, Greases and CALM Buoy Consumables",Competitive Tender,Q3 2026,36 Months,Competitive tender,False,False,20263,True
+TULLOW,39,Gas Compressors,Gas Compressors,Competitive Tender,Q1 2027,36 Months,Competitive tender,False,False,20271,True
+TULLOW,39,Power Generation,Power Generation,Competitive Tender,Q1 2027,36 Months,Competitive tender,False,False,20271,True
+TULLOW,39,Fabric Maintenance Services & Composite Wrap,Fabric Maintenance Services & Composite Wrap,Competitive Tender,Q4 2026,36 Months,Competitive tender,False,False,20264,True
+TULLOW,39,Scaffolding Services,Scaffolding Services,Competitive Tender,Q4 2026,36 Months,Competitive tender,False,False,20264,True
+TULLOW,39,"Supply of hang-off system, hose string and strainer and installation services for replacement of Seawater Lift pump (SWLP)-B","Supply of hang-off system, hose string and strainer and installation services for replacement of Seawater Lift pump (SWLP)-B",Competitive Tender,Q1 2026,9 Months,Competitive tender,False,False,20261,False
+OPCO,40,OCTG - LOD (>16’’),Casing &tubulars,Competitive Tender,Q1 2026,9 Month,Competitive tender,False,False,20261,False
+OPCO,40,OCTG - SOD (≤16’’),Casing &tubulars,Competitive Tender,Q1 2026,9 Months,Competitive tender,False,False,20261,False
+OPCO,40,Drilling Rig (MODU),Drilling Rig (MODU),Competitive Tender,Q1 2026,12 Months,Competitive tender,False,False,20261,False
+OPCO,40,Mud Logging,Mud Logging,Single Source,Q1 2026,24 Months,Single or sole source,False,False,20261,False
+OPCO,40,Solids Control,Cuttings & Waste handling,Single Source,Q1 2026,24 Months,Single or sole source,False,False,20261,False
+OPCO,40,ROV Services,Subsea Operations support,Single Source,Q1 2026,24 Months,Single or sole source,False,False,20261,False
+OPCO,40,Directional Services,Well trajectory services,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+OPCO,40,Drilling Services,Well Evaluation,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+OPCO,40,Engineering,Drilling Services,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+OPCO,40,Electric Logging,Wireline Logging,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+OPCO,40,Tubular Running Services,Tubular Running Services,Competitive Tender,Q2 2027,24 Months,Competitive tender,False,False,20272,True
+OPCO,40,Fishing Services,Materials Inspection,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+OPCO,40,QA/QC,Casing &tubulars,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+OPCO,40,Float Equipment,Casing Accessories,Competitive Tender,Q2 2026,4Months,Competitive tender,False,False,20262,False
+OPCO,40,Casing Accessories,Completion Components,Competitive Tender,Q2 2026,4 Months,Competitive tender,False,False,20262,False
+OPCO,40,Drill Bits,Bits & Optimisation,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+OPCO,40,Helicopter Services,Personnel Transport,Competitive Tender,Q2 2026,24 Months,Competitive tender,True,False,20262,False
+OPCO,40,Marine Vessels,PSV / AHTS Support,Competitive Tender,Q1 2027,24 Months,Competitive tender,True,False,20271,True
+OPCO,40,Supply Base,Shore Base Operations,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+OPCO,40,Fuel,Marine &Aviation Fuel,Competitive Tender,Q2 2026,24 Months,Competitive tender,True,False,20262,False
+OPCO,40,Drilling Fluids & Engineering,Fluids & Optimisation,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+OPCO,40,Cementing Services,Cementing Operations,Competitive Tender,Q2 2026,24 Months,Competitive tender,False,False,20262,False
+MODEC,41,Replacement of Insulation System on Pressure Vessels and Piping,Continuation - Replacement of old (conventional) insulation system on pressure vessels and piping Equipment,Single Source,Q1 2026,TBC,Single or sole source,False,False,20261,False
+MODEC,41,RBI conventional of pressure systems,RBI conventional of pressure systems,Single Source,Q1 2026,TBC,Single or sole source,False,False,20261,False
+MODEC,41,Corrosion Under Insulation (CUI) Prevention / Mitigation Campaign - Labour,Corrosion Under Insulation (CUI) Prevention / Mitigation Campaign - Labour,Single Source,Q2 2026,TBC,Single or sole source,False,False,20262,False
+MODEC,41,Hull / Tank- Repair & Maintenance,Hull / Tank- Repair & Maintenance,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,41,HAE Inspection,HAE Inspection,Single Source,Q1 2026,TBC,Single or sole source,False,False,20261,False
+MODEC,41,Cargo. Slop and Ballast systems- Repair & Maintenance,Cargo. Slop and Ballast systems Repair & Maintenance,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,41,Power System - Repair & Maintenance,Power System - Repair & Maintenance,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,41,"Lube Oil, Grease and Solvent","Various lubricants needed to keep (HP, LP and MP) and other systems. running",Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,41,"Continuation of Non-Intrusive Inspection of Pressure Vessels- Equipment Rentals, Labour, Mobilization","Continuation of Non-Intrusive Inspection of Pressure Vessels- Equipment Rentals, Labour, Mobilization",Single Source,Q1 2026,TBC,Single or sole source,False,False,20261,False
+MODEC,41,HP Gas Comp (Gas Lift and Re-in)-Repair &Maintenance,HP Gas Comp (Gas Lift and Re-in)-Repair &Maintenance,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,41,Mechanical Seal for New Vacuum Pump Design,Mechanical Seal for New Vacuum Pump Design,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,41,LP Gas Comp-Repair & Maintenance,LP Gas Comp-Repair & Maintenance,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,41,Fabrication/ Welding Repair & Maintenance,Fabrication/ Welding Repair & Maintenance,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,41,Chemical Injection Sytem -Repair & Maintenance,"Procurement and overhaul of various injections pumps, motors, skids",Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,42,Valves,"Replacement of various valves installed on the FPSO, and valves required for modification projects.",Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,42,Pumps,Purchase of pumps and spares,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,42,Dresser-Rand Compressors,Supply of Spare Parts for Dresser-Rand Compressors,Competitive Tender,Q2 2026,TBC,Competitive tender,False,False,20262,False
+MODEC,42,Cargo Handling and Storage,"Purchase of Hawser and Export hoses, and spare parts for oil metering skid flowmeter",Competitive Tender,Q1 2026,TBC,Competitive tender,True,False,20261,False
+MODEC,42,Offshore Catering and Hospitality,Provision of Offshore Catering and Hospitality Services,Competitive Tender,Q2 2026,TBC,Competitive tender,False,False,20262,False
+MODEC,42,Sulphate Removal Unit (SRU),SRU membranes replacement and other spare parts,Sole Source,Q2 2026,TBC,Single or sole source,False,False,20262,False
+MODEC,42,Feasibility Studies & Detailed engineering studies,Feasibility Studies & Detailed engineering studies on proposed modifications and improvements on FPSO,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,42,"Valve repair, PSV calibration and certification","Repair, calibration, and recertification of various valves installed on FPSO",Single Source,Q1 2026,TBC,Single or sole source,False,False,20261,False
+MODEC,42,Modification of Various Piping Systems,3D Scanning and Fabrication,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,42,Pressure Vessels Inspection,Pressure Vessels Inspection,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+MODEC,42,Shutdown Activities,"Various scopes for annual shutdown- rigging, electrical services, autoclave servicing, maintenance of control systems and chemical hydraulic systems, UPS battery servicing etc…",Sole Source,Q1 2026,TBC,Single or sole source,False,False,20261,False
+YINSON,43,Electrical Equipment & Instrumentation,"Supply of various electrical equipments and parts such as main circuit breakers, electric motors, pressure transmitters ..etc.",Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+YINSON,43,Deck Items,Marine Paint and Consumables,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+YINSON,43,Safety Items,"Firefighting Equipment, Life Saving Appliances (spare parts for life boats), replacement of helideck mesh, extinguishers, oil spill consumables",Single Source,Q2 2026,TBC,Single or sole source,False,False,20262,False
+YINSON,43,Piping Material (assorted),"Offshore Standard Piping Materials and fittings required for modification projects such as stainless,duplex and carbon steel piping, gaskets, flanges, elbows etc.",Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+YINSON,43,Valves,"Replacement of various valves installed on the FPSO, and valves required for modification projects.",Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+YINSON,43,Pumps,Purchase of pumps and spares,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+YINSON,43,Dresser-Rand Compressors,Supply of Spare Parts for Dresser-Rand Compressors,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+YINSON,43,Cargo Handling and Storage,"Purchase of Hawser and Export hoses, and spare parts for oil metering skid flowmeter",Competitive Tender,Q1 2026,TBC,Competitive tender,True,False,20261,False
+YINSON,43,Offshore Catering and Hospitality,Provision of Offshore Catering and Hospitality Services,Competitive Tender,Q2 2026,TBC,Competitive tender,False,False,20262,False
+YINSON,43,Sulphate Removal Unit (SRU),Fabrication/ Welding Repair & Maintenance,Sole Source,Q2 2026,TBC,Single or sole source,False,False,20262,False
+YINSON,43,Feasibility Studies & Detailed engineering studies,Feasibility Studies & Detailed engineering studies on proposed modifications and improvements on FPSO,Single Source,Q1 2026,TBC,Single or sole source,False,False,20261,False
+YINSON,43,"Valve repair, PSV calibration and certification","Repair, calibration, and recertification of various valves installed on FPSO",Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+YINSON,43,Modification of Various Piping Systems,3D Scanning and Fabrication,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+YINSON,43,Pressure Vessels Inspection,Pressure Vessels Inspection,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+YINSON,43,Shutdown Activities,"Various scopes for annual shutdown- rigging, electrical services, autoclave servicing, maintenance of control systems and chemical hydraulic systems, UPS battery servicing etc.",Sole Source,Q1 2026,TBC,Single or sole source,False,False,20261,False
+GOS,44,Manpower Service,Manpower Service,Competitive Tender,Q1 2026,TBC,Competitive tender,False,False,20261,False
+GOS,44,Downhole drilling tools and Service,Downhole drilling tools and Service,Competitive Tender,Q3 2026,TBC,Competitive tender,False,False,20263,True
+GOS,44,Material handling equipment rental,Material handling equipment rental,Competitive Tender,Q3 2026,TBC,Competitive tender,False,False,20263,True
+GOS,44,General MRO (parts and workshop consumables),General MRO (parts and workshop consumables),Competitive Tender,Q3 2026,TBC,Competitive tender,False,False,20263,True
+GOS,44,Custom Clearance Service,Custom Clearance Service,Competitive Tender,Q2 2026,TBC,Competitive tender,False,False,20262,False
+GOS,44,Offshore welding and fabrication services,Offshore welding and fabrication services,Competitive Tender,Q2 2026,TBC,Competitive tender,False,False,20262,False
+GOS,44,"High pressure, high temperature well testing equipment","High pressure, high temperature well testing equipment",Competitive Tender,Q2 2026,TBC,Competitive tender,False,False,20262,False
+GOS,44,Compressor rental,Compressor rental,Competitive Tender,Q2 2026,TBC,Competitive tender,False,False,20262,False
+GOS,44,Liquid Nitrogen and tanks rental,Liquid Nitrogen and tanks rental,Single Source,Q1 2026,TBC,Single or sole source,False,False,20261,False
+GNPC,45,Provision of Airborne Transient Pulse (ATP) on the Voltaian Basin project,Provision of Airborne Transient Pulse (ATP) on the Voltaian Basin project,Single Source,Q1 2026,12 Months,Single or sole source,False,False,20261,False
+GNPC,45,Provision of Satellite Mapping on the Voltaian Basin project,Provision of Satellite Mapping on the Voltaian Basin project,Single Source,Q2 2026,12 Months,Single or sole source,False,False,20262,False
+GNPC,45,Provision of Well Drilling Services on the Voltaian South Block,Provision of Well Drilling Services on the Voltaian South Block,Restricted Tendering,Q2 2026,12 Months,restricted tendering,False,False,20262,False
+GNPC,45,Provision of Site Preparatory Services and Utilities on the Voltaian South Block,Provision of Site Preparatory Services and Utilities on the Voltaian South Block,Restricted Tendering,Q2 2026,12 Months,restricted tendering,False,False,20262,False
+GNPC,45,Provision of Project Management Consutancy Services on the Voltaian South Block,Provision of Project Management Consutancy Services on the Voltaian South Block,Single Source,Q1 2026,6 Months,Single or sole source,False,False,20261,False
+GNPC,45,Consultancy Services for Competent Persons Report (CPR) on the Voltaian Basin Project,Consultancy Services for Competent Persons Report (CPR) on the Voltaian Basin Project,Competitive Tender,Q2 2026,12 Months,Competitive tender,False,False,20262,False
+GNPC,45,Consultancy Services for Feasibility Studies on Engineering Projects Marginal and Stranded Fields,Consultancy Services for Feasibility Studies on Engineering Projects Inline Inspection and Gas Export Manifold Life-Extension and Capacity Assessment,Restricted Tendering,Q3 2026,12 Months,restricted tendering,False,False,20263,True
+GNPC,45,Consultancy Services for Feasibility Studies on Engineering Projects - Inline Inspection and Gas Export Manifold Life-Extension and Capacity Assessment,Consultancy Services for Feasibility Studies on Engineering Projects - Inline Inspection and Gas Export Manifold Life-Extension and Capacity Assessment,Restricted Tendering,Q3 2026,11 Months,restricted tendering,False,False,20263,True
+GNPC,45,,Consultancy Services for Well Engineering Management (PMC),Competitive Tender,Q1 2026,6 Months,Competitive tender,False,False,20261,False
+GNPC,45,Consultancy Services for Third-Party Verification for SFDP,Consultancy Services for Third-Party Verification for SFDP,Competitive Tender,Q2 2026,6 Months,Competitive tender,False,False,20262,False
